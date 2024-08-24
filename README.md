@@ -1,5 +1,5 @@
 # SketchEdAI
-SketchEdAI: A computer vision and AI-powered educational game designed for young children.
+SketchEdAI: A Computer Vision, AI-powered educational game designed for young children.
 
 Inspired by Google's Quick, Draw! project (https://quickdraw.withgoogle.com/), I leveraged a subset of the data (https://github.com/googlecreativelab/quickdraw-dataset) collected from this project, to create my own project, SketchEdAI.
 
