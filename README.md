@@ -22,7 +22,7 @@ PyTorch (https://pytorch.org/) is used to build a Convolutional Neural Network (
 The CNN model features a simple architecture with two convolutional layers, two max pooling layers, and two fully connected layers. The Adam optimizer and Cross Entropy Loss function are used to optimize the network's parameters. Despite its simplicity, the model achieved a validation accuracy of 95.43% and a test accuracy of 95.24% after 10 epochs of training (overfitting began after the 7th epoch) on a 3060 RTX, 6GB GPU, taking approximately 9.57 minutes. The dataset was shuffled and split into training, validation, and test sets with a 70:20:10 ratio.
 
 
-### This repository includes three key files:
+### This repository includes three files:
 
 a. train.py: Contains the code responsible for training, validating, testing, and saving the CNN model.
 b. main.py: The primary script that runs the application.
