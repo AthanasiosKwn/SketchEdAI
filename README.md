@@ -3,6 +3,9 @@ SketchEdAI: A Computer Vision, AI-powered educational game designed for young ch
 
 Inspired by Google's Quick, Draw! project (https://quickdraw.withgoogle.com/), I leveraged a subset of the data (https://github.com/googlecreativelab/quickdraw-dataset) collected from this project, to create my own project, SketchEdAI.
 
+<video width="640" height="480" controls>
+  <source src="video_demonstration.mp4" type="video/mp4">
+</video>
 
 https://github.com/user-attachments/assets/d8033c54-4cab-42c5-be9e-71d988d45cd7
 (Video is 1.5x speed)
