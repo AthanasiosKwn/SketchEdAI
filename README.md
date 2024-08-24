@@ -5,7 +5,7 @@ Inspired by Google's Quick, Draw! project (https://quickdraw.withgoogle.com/), I
 
 
 https://github.com/user-attachments/assets/d8033c54-4cab-42c5-be9e-71d988d45cd7
-(Video is 1.5x sped up)
+(Video is 1.5x speed)
 
 
 
